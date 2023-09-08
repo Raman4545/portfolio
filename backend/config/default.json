@@ -1,4 +1,6 @@
 {
     "mongoURI":"mongodb+srv://Singhramanpannu:Raman1234@cluster0.fcjsvac.mongodb.net/?retryWrites=true&w=majority",
-    "jwtToken":"MySecretToken"
+    "jwtToken":"MySecretToken",
+    "githubClientId":"acdfdbd50bc1d958aab4",
+    "githubSecret":"fdab11f50acacaa9a487bf7312fcafc276ede9c6"
 }
